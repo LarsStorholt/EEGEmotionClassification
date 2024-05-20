@@ -1,4 +1,4 @@
-# EmotionClassification
+# EEGEmotionClassification
 
 ## Table of Contents
 - [Project Overview](#project-overview)
